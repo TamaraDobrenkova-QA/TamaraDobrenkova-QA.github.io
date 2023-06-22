@@ -1,5 +1,5 @@
 body {
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sana MS";
   background-color: #f6f8fa;
   color: #24292f;
   display: flex;
@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  margin: 30px 0;
+  margin: 40px 0;
 }
 
 .header__avatar {
@@ -18,28 +18,28 @@ body {
 
 .header__title {
   margin: 30px 0 10px 0;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 1.2;
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sana MS";
 }
 
 .header__subtitle {
   color: #24292f;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.4;
-  margin: 30;
+  margin: 0;
 }
 
 .links {
-  width: 400px;
+  width: 320px;
   margin-bottom: 40px;
 }
 
 .links__header {
-  font-family: "Comic Sans MS";
-  font-size: 30px;
+  font-family: "Comic Sana MS";
+  font-size: 24px;
   line-height: 1.4;
-  margin: 30 0 15px 0;
+  margin: 0 0 15px 0;
 }
 
 .links__container {
@@ -56,7 +56,7 @@ body {
   order: 1;
   flex-grow: 0;
   box-sizing: border-box;
-  margin: 30;
+  margin: 0;
 }
 
 .links__link,
@@ -87,12 +87,12 @@ body {
 }
 
 .links__title {
-  margin: 30;
+  margin: 0;
   min-width: 100px;
 }
 
 footer {
-  margin: 30 0 40px 0;
+  margin: 0 0 40px 0;
 }
 .button-link {
   box-sizing: border-box;
@@ -101,7 +101,7 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  width: 400px;
+  width: 320px;
   background: #fff;
   border: 1px solid rgba(27, 31, 36, 0.15);
   border-radius: 5px;
