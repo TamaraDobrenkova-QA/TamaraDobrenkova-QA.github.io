@@ -21,7 +21,7 @@ html {
  */
 
 body {
-  margin: 0.67em;
+  margin: 0;
 }
 
 /**
@@ -62,7 +62,7 @@ hr {
  */
 
 pre {
-  font-family: "Comic Sana MS; /* 1 */
+  font-family: "Comic Sans MS"; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -105,7 +105,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: "Comic Sana MS": /* 1 */
+  font-family: "Comic Sans MS"; /* 1 */
   font-size: 1em; /* 2 */
 }
 
