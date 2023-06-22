@@ -27,7 +27,7 @@ body {
   color: #24292f;
   font-size: 20px;
   line-height: 1.4;
-  margin: 0;
+  margin: 30;
 }
 
 .links {
@@ -39,7 +39,7 @@ body {
   font-family: "Comic Sans MS";
   font-size: 30px;
   line-height: 1.4;
-  margin: 0 0 15px 0;
+  margin: 30 0 15px 0;
 }
 
 .links__container {
@@ -56,7 +56,7 @@ body {
   order: 1;
   flex-grow: 0;
   box-sizing: border-box;
-  margin: 0;
+  margin: 30;
 }
 
 .links__link,
@@ -87,12 +87,12 @@ body {
 }
 
 .links__title {
-  margin: 0;
+  margin: 30;
   min-width: 100px;
 }
 
 footer {
-  margin: 0 0 40px 0;
+  margin: 30 0 40px 0;
 }
 .button-link {
   box-sizing: border-box;
