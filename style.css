@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #a2c6da;
-  color: #ffffff;
+  color: #fff;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -54,7 +54,7 @@ h1{
 
 a{
   text-decoration: none;
-  color: #ffffff;
+  color: #fff;
 }
 
 .tile {
