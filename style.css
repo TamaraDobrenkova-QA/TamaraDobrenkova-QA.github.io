@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(162, 198, 218);
+  background-color: #a2c6da;
   color: rgb(255, 255, 255);
   display: flex;
   align-items: center;
@@ -24,7 +24,7 @@ header {
   width: 48px;
   height: 48px;
   border-radius: 24px;
-  background-color: rgb(74, 115, 137);
+  background-color: #4a7389;
 }
 
 .share-button svg {
@@ -33,7 +33,7 @@ header {
 }
 
 .share-button:hover {
-  border: 1px solid rgb(8, 8, 8);
+  border: 1px solid #080808;
   transition: cubic-bezier(0.075, 0.82, 0.165, 1);
   transform: scale(1.09);
 }
@@ -59,7 +59,7 @@ a{
 
 .tile {
   width: 100%;
-  background-color:rgb(74, 115, 137);
+  background-color:#4a7389;
   margin: 7px;
   border-radius: 17px;
   display: flex;
@@ -71,7 +71,7 @@ a{
   width: 40px;
   height: 40px;
   border-radius: 20px;
-  background-color: rgb(74, 115, 137);
+  background-color: #4a7389;
 }
 
 .tile-share-button svg{
@@ -97,13 +97,13 @@ a{
 }
 
 .tile:hover {
-  border: 1px solid rgb(240, 240, 240);
+  border: 1px solid #f0f0f0;
   transition: cubic-bezier(0.075, 0.82, 0.165, 1);
   transform: scale(1.02);
 }
 
   /* Эффект наведения на картинку */
 .image-container:hover {
-  border: 1px solid rgb(240, 240, 240);
+  border: 1px solid #f0f0f0;
 }
 
